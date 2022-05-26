@@ -13,3 +13,5 @@ Initial road map:
 - [ ] define software architetural
 - [ ] define framework
 - [ ] publish main website at https://dynabill.cloud
+- [ ] publish the software on sites like g2 and sourceforge
+- [ ] create a good documented contribution guide
