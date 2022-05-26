@@ -8,8 +8,8 @@ Initial platform objectives:
 
 Initial road map:
 
-- [ ] publish initial docs
-- [ ] publish initial roadmap
+- [ ] publish initial docs - https://github.com/dynabill/docs
+- [ ] publish initial roadmap - https://github.com/dynabill/roadmap/
 - [ ] define software architetural
 - [ ] define framework
 - [ ] publish main website at https://dynabill.cloud
