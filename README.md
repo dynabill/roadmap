@@ -33,3 +33,8 @@ Some basic considerations and neededs for the project.
 * [ ] Create an good admin documentation
 * [ ] Create an good developers documentation
 * [ ] Use best practices on code to deploy an API-REST first class documentation
+
+### Code & Repo
+
+* [ ] Add semantic-release into all repos
+* [ ] Add commitlint into all repos
