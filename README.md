@@ -1,3 +1,5 @@
+![](https://github.com/dynabill/brand-kit/blob/main/assets/social/github-open-graph-template.png)
+
 # DynaBill Roadmap
 
 Some basic considerations and neededs for the project. 
