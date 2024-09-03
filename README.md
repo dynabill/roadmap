@@ -2,13 +2,15 @@
 
 # DynaBill Roadmap
 
-Some basic considerations and neededs for the project. 
+Some basic considerations and neededs for DynaBill project.
+
+> DynaBill is an Open Source Web Host Management & Billing Platform for the next generation of cloud services providers.
 
 ## Initial platform objectives
 
 - [ ] make all good stuff available on commercial platforms;
 - [ ] use common languages and frameworks to work on top of;
-- [ ] distirbute all free and open here =)
+- [ ] distribute all free and open here =)
 
 ## Initial road map
 
