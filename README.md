@@ -14,11 +14,11 @@ Some basic considerations and neededs for DynaBill project.
 
 ## Initial road map
 
-- [ ] publish initial docs - https://github.com/dynabill/docs
-- [ ] publish initial roadmap - https://github.com/dynabill/roadmap/
+- [ ] publish initial docs - [https://github.com/dynabill/docs](https://github.com/dynabill/docs)
+- [ ] publish initial roadmap - [https://roadmap.dynabill.cloud](https://roadmap.dynabill.cloud)
 - [ ] define software architetural
 - [ ] define framework
-- [ ] publish main website at https://dynabill.cloud
+- [ ] publish main website at [https://dynabill.cloud](https://dynabill.cloud)
 - [ ] publish the software on sites like g2 and sourceforge
 - [ ] create a good documented contribution guide
 
